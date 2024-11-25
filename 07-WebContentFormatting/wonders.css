@@ -1,0 +1,49 @@
+*{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: green;
+}
+h2{
+    background-color: lightgreen;
+}
+td,th{
+    padding: 10px;
+    border: solid cyan 2px;
+}
+select,textarea,input{
+    width: 30%;
+}
+input{
+    padding: 20px;
+}
+form{
+    margin-bottom: 40px;
+}
+input.submit{
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+
+}
+.submit:hover{
+    background-color: burlywood;
+}
+a{
+    text-decoration: line-through;
+
+}
+*{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.canyon{
+    background-color: bisque;
+}
+.reef{
+    background-color: aquamarine;
+}
+.Everest{
+    background-color: blueviolet;
+}

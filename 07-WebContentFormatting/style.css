@@ -1,0 +1,21 @@
+th{
+    background-color: aqua;
+
+}
+td{
+    background-color: rgb(192, 238, 192);
+    
+    padding: 20px;
+    border: solid 2PX gray;
+}
+th:nth-child(1),
+td:nth-child(1){
+width: 25%;
+}
+th:nth-child(4),
+td:nth-child(4){
+width: 40%;
+}
+tr:hover{
+    color: blueviolet;
+}

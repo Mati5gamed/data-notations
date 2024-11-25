@@ -1,0 +1,20 @@
+*{
+    margin-bottom: 10px;
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+}
+.submit{
+    background-color: aqua;
+    color: red;
+}
+input{
+    border: solid brown 1px;
+}
+select{
+    border: yellow dashed 2px;
+}
+textarea{
+    border: green solid 3px;
+}
